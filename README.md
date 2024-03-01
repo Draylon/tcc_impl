@@ -56,7 +56,7 @@ As aplicações de visualização dos dados desta solução são desenvolvidos e
 
 Repositórios individuais
 
-- [ESP32 LoRa](https://github.com/Draylon/tcc_lora)
+- [ESP32 LoRa](https://github.com/Draylon/tcc_lora_impl)
 - [API](https://github.com/Draylon/tcc_api)
 - [WEBAPP](https://github.com/Draylon/tcc_api_webapp)
 - [FLUTTER](https://github.com/Draylon/tcc_flutter_ui)

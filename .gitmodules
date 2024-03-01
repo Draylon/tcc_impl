@@ -1,3 +1,6 @@
+[submodule "lora"]
+	path = api
+	url = https://github.com/Draylon/tcc_lora_impl.git
 [submodule "api"]
 	path = api
 	url = https://github.com/Draylon/tcc_api.git
