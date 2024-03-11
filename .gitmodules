@@ -1,12 +1,12 @@
 [submodule "lora"]
-	path = api
+	path = lora
 	url = https://github.com/Draylon/tcc_lora_impl.git
+[submodule "flutter"]
+	path = flutter
+	url = https://github.com/Draylon/tcc_flutter_ui.git
 [submodule "api"]
 	path = api
 	url = https://github.com/Draylon/tcc_api.git
 [submodule "webapp"]
 	path = webapp
 	url = https://github.com/Draylon/tcc_api_webapp.git
-[submodule "flutter"]
-	path = flutter
-	url = https://github.com/Draylon/tcc_flutter_ui.git
