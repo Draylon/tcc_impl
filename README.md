@@ -82,6 +82,9 @@ $ cd tcc_impl
 $ git submodule update --init
 ou
 $ git pull --recurse-submodules
+
+# Atualizar módulos para releases mais atuais
+$ git submodule update --remote --merge
 ```
 
 ## :sparkles: Descritivo
