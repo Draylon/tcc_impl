@@ -99,7 +99,7 @@ Este projeto consiste em uma solução de 3 frentes, estendendo todas as fases d
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from GPL. For more details, see the [LICENSE](LICENSE.md) file.
 
 
 Made with :heart: by <a href="https://github.com/draylon" target="_blank">Draylon</a>
